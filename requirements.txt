@@ -1,0 +1,4 @@
+opencv-python
+numpy
+np~=1.0.2
+pytest
